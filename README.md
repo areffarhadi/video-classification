@@ -1,2 +1,4 @@
 # video-classification
-Finetuning Facebook's TimeSformer pretrained model for video classification, emotion recognition, action recognition, etc.
+Finetuning Facebook's [TimeSformer pre-trained model](https://huggingface.co/facebook/timesformer-base-finetuned-k600) for any task related to video classification, such as emotion recognition, action recognition, etc.
+
+
